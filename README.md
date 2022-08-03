@@ -93,7 +93,7 @@ CoroutineScope(Dispatchers.IO).launch {
 }
 ```
 
-### Sort the both Folders and Videos
+### Sort both Folders and Videos
 
 Use VideosSortOrder._ and FolderSortOrder._ as followed
 
